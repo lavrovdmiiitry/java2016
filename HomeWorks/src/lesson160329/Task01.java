@@ -6,6 +6,7 @@ public class Task01 {
 		// TODO Auto-generated method stub
 		System.out.println("Hello, world!!!!".toUpperCase());
 		System.out.println("Hello, Mom!!!!".toUpperCase());
+		System.out.println("Hello, Dad!!!!".toUpperCase());
 		;
 
 	}
